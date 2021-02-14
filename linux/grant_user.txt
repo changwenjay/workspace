@@ -1,0 +1,2 @@
+grant all on *.* to 'wenjay'@'%' identified by 'dcc';
+grant all on *.* to 'wenjay'@'localhost' identified by 'dcc';
